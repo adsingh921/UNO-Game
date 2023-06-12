@@ -1,6 +1,3 @@
-// Anmoldeep Sandhu
-// CST-105 : Project Milestone 3
-// This file and project are my own work
 
 package unoGame;
 
